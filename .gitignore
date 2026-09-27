@@ -1,0 +1,12 @@
+# Données personnelles : ne jamais les publier
+cv/photo.jpg
+cv/out/
+kit/suivi_candidatures.csv
+perso/
+*.pdf
+*.docx
+.venv/
+venv/
+__pycache__/
+.DS_Store
+.venv/
